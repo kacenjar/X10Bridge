@@ -1,0 +1,5 @@
+# ignore build files
+applet/*
+
+# ignore osx system files
+.DS_Store
