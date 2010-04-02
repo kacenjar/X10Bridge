@@ -1,0 +1,13 @@
+04/02/10
+This code in conjunction with an Arduino/Ethernet Shield and a feed setup on
+Pachube will server as a X10 Bridge.
+
+The code and hardware combination will monitor a given data feed on Pachube 
+looking for X10 commands.  These X10 commands will then be routed to the 
+local X10 setup using a X10 Powerline Interface.
+
+The details of how this is all setup is at the following URL
+
+http://blog.microcontrollerlabs.com
+
+This code is distributed under the BSD License.
